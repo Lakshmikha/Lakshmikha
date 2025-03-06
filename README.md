@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lakshmikha</h1>
 <h3 align="center">Someone who's interested in all things tech!!!</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lakshmikha" alt="lakshmikha" /></a> </p>
-
 - 🌱 I’m currently learning **machine learning algorithms, with a little web development on the side and a pinch of web scraping.**
 
 - 💬 Ask me about **anything :)**
